@@ -10,8 +10,9 @@ namespace C_Sharp_GH_Test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!!!");
             Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }
